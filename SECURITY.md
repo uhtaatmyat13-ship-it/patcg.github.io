@@ -1,6 +1,6 @@
 # Security and Privacy Issues
 
-Reporting procedures for issues relating to security or privacy.
+Reporting procedures for isksues relating to security or privacy.
 
 We request that all issues related to active work of the Private Advertising
 Technology Community Group be reported as issues on the repository of the
